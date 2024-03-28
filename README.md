@@ -1,5 +1,5 @@
 # SLC-Lift-system
-State logic controller implementation for lift system
+## State logic controller implementation for lift system
 
 
 ![image](https://github.com/ShubhamPednekar19/SLC-Lift-system/assets/83055678/ab319ae9-db12-4112-b8a8-cc9827afd60f)
